@@ -1,0 +1,1554 @@
+﻿Log file open, 01/29/22 09:23:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TrainToCedarRidge
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.775272
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.29-14.23.03:352][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.29-14.23.03:352][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Engine.ini]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Engine.ini]
+[2022.01.29-14.23.03:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Engine.ini]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Engine.ini]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.29-14.23.03:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Engine.ini]
+[2022.01.29-14.23.03:353][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Engine.ini]
+[2022.01.29-14.23.03:378][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.29-14.23.03:378][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.29-14.23.03:379][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.29-14.23.03:380][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.29-14.23.03:380][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.29-14.23.03:381][  0]LogHAL: Display: Platform has ~ 16 GB [17090527232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.29-14.23.03:381][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.29-14.23.03:381][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.29-14.23.03:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.29-14.23.03:382][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.29-14.23.03:387][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.29-14.23.03:387][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.29-14.23.03:387][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.29-14.23.03:387][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Engine.ini]
+[2022.01.29-14.23.03:387][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Config/Windows/Editor.ini]
+[2022.01.29-14.23.03:388][  0]LogInit: Computer: DESKTOP-352CLH4
+[2022.01.29-14.23.03:388][  0]LogInit: User: Wick
+[2022.01.29-14.23.03:388][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.01.29-14.23.03:388][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.29-14.23.03:388][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.01.29-14.23.03:388][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.29-14.23.03:388][  0]LogMemory: Process Physical Memory: 147.46 MB used, 147.46 MB peak
+[2022.01.29-14.23.03:388][  0]LogMemory: Process Virtual Memory: 131.02 MB used, 131.02 MB peak
+[2022.01.29-14.23.03:389][  0]LogMemory: Physical Memory: 8749.98 MB used,  7548.82 MB free, 16298.80 MB total
+[2022.01.29-14.23.03:389][  0]LogMemory: Virtual Memory: 134198296.00 MB used,  19429.04 MB free, 134217728.00 MB total
+[2022.01.29-14.23.03:393][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.29-14.23.03:504][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.29-14.23.03:508][  0]LogInit: Using OS detected language (en-US).
+[2022.01.29-14.23.03:509][  0]LogInit: Using OS detected locale (en-US).
+[2022.01.29-14.23.03:525][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.29-14.23.03:861][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.29-14.23.03:888][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.29-14.23.03:943][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.29-14.23.03:943][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.29-14.23.06:130][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.29-14.23.06:133][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.29-14.23.06:133][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.29-14.23.06:133][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.29-14.23.06:133][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.29-14.23.06:236][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2022.01.29-14.23.06:236][  0]LogD3D11RHI:       8031/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060 SUPER
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     DeviceId    : 1f06
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     SubSysId    : 31623842
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     SharedSystemMemory : 8545263616 bytes
+[2022.01.29-14.23.06:238][  0]LogD3D11RHI:     AdapterLuid : 0 61322
+[2022.01.29-14.23.06:244][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.29-14.23.06:244][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.29-14.23.06:244][  0]LogWindows: EnumDisplayDevices:
+[2022.01.29-14.23.06:244][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:1)
+[2022.01.29-14.23.06:245][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2022.01.29-14.23.06:245][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.01.29-14.23.06:245][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.01.29-14.23.06:245][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:   Driver Version: 497.29 (internal:30.0.14.9729, unified:497.29)
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:      Driver Date: 12-15-2021
+[2022.01.29-14.23.06:245][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060 SUPER
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:     DeviceId    : 1f06
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:     SubSysId    : 31623842
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.29-14.23.06:245][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.01.29-14.23.06:246][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.29-14.23.06:246][  0]LogD3D11RHI:     SharedSystemMemory : 8545263616 bytes
+[2022.01.29-14.23.06:246][  0]LogD3D11RHI:     AdapterLuid : 0 61322
+[2022.01.29-14.23.06:318][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.29-14.23.06:319][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.29-14.23.06:319][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.29-14.23.06:320][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2022.01.29-14.23.06:369][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.29-14.23.06:395][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.29-14.23.06:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.29-14.23.06:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.29-14.23.06:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.29-14.23.06:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.29-14.23.06:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.29-14.23.06:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.29-14.23.06:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.29-14.23.06:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.29-14.23.06:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.29-14.23.06:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.29-14.23.06:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.29-14.23.06:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.29-14.23.06:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.29-14.23.06:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.29-14.23.06:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.29-14.23.06:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.29-14.23.06:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.29-14.23.06:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.29-14.23.06:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.29-14.23.06:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.29-14.23.06:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.29-14.23.06:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.29-14.23.06:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.29-14.23.06:816][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.29-14.23.06:827][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.29-14.23.06:873][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.29-14.23.06:958][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.29-14.23.06:960][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (D:/TrainToCedarRidge/TrainToCedarRidge/Intermediate/Shaders/WorkingDirectory/24888/).
+[2022.01.29-14.23.06:960][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wick/AppData/Local/Temp/UnrealShaderWorkingDir/A1501B424566783DB8C7B09ED6926283/'.
+[2022.01.29-14.23.06:960][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.29-14.23.06:960][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.29-14.23.06:960][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.29-14.23.09:719][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.29-14.23.09:850][  0]LogDerivedDataCache: Loaded boot cache 0.13s 94MB C:/Users/Wick/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.29-14.23.09:851][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wick/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.29-14.23.09:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/TrainToCedarRidge/TrainToCedarRidge/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.29-14.23.09:851][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.29-14.23.09:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/TrainToCedarRidge/TrainToCedarRidge/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.29-14.23.09:851][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.29-14.23.09:873][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.29-14.23.09:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.29-14.23.09:873][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.29-14.23.09:918][  0]LogDerivedDataCache: Speed tests for C:/Users/Wick/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.01.29-14.23.09:918][  0]LogDerivedDataCache: Display: Performance to C:/Users/Wick/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.16ms. RandomReadSpeed=24.29MBs, RandomWriteSpeed=192.74MBs. Assigned SpeedClass 'Local'
+[2022.01.29-14.23.09:919][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wick/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.29-14.23.09:919][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.29-14.23.09:919][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.29-14.23.09:966][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.29-14.23.09:982][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.29-14.23.10:024][  0]LogAssetRegistry: FAssetRegistry took 0.0054 seconds to start up
+[2022.01.29-14.23.10:334][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.29-14.23.10:334][  0]LogInit: Active device profile: [000001688621FA00][00000168F8F03340 49] Windows
+[2022.01.29-14.23.10:334][  0]LogInit: Profiles: [000001688621FA00][00000168F8F03340 49] Windows, [00000168861D8700][00000168F65414C0 49] WindowsNoEditor, [000001688621C800][00000168FD229640 49] WindowsServer, [00000168861DB200][00000168FD2397C0 49] WindowsClient, [000001688621F100][00000168FD235940 49] IOS, [00000168861D9100][00000168FD23DAC0 49] iPadAir, [000001688621D000][00000168FD2400C0 49] iPadAir2, [0000016886194200][0000016885B24380 49] IPadPro, [0000016886194300][0000016885B203C0 49] iPadAir3, [000001688621EB00][00000168F8EF4540 49] iPadAir4, [0000016886197400][00000168FD2DE680 49] iPadMini2, [000001688621D500][00000168F8EF87C0 49] iPadMini3, [0000016886195500][00000168FD2C6900 49] iPadMini4, [000001688621E300][00000168FD2CEA80 49] iPadMini5, [0000016886187A00][00000168FCF42D40 49] iPhone6, [0000016886187B00][00000168FCF3ED80 49] iPodTouch6, [0000016886197000][00000168FCF4B040 49] iPhone7, [0000016886196F00][00000168FCF47080 49] iPodTouch7, [0000016886184C00][00000168FCF4F200 49] iPhone5S, [0000016886195000][00000168FCF53380 49] iPhone6Plus, [0000016886186D00][00000168FCF57500 49] iPhone6S, [0000016886197600][0000016886757680 49] iPhone6SPlus, [0000016886185400][000001688675B800 49] iPhone7Plus, [0000016886195200][000001688675F980 49] iPhoneSE, [0000016886186500][0000016886763B00 49] iPhone8, [0000016886195700][0000016886766100 49] iPhone8Plus, [0000016886185C00][000001688676A280 49] iPhoneX, [0000016886196000][000001688676E400 49] iPhoneXS, [0000016886184500][0000016886772580 49] iPhoneXSMax, [0000016886195B00][0000016886776700 49] iPhoneXR, [0000016886185D00][00000168FD2CA840 49] iPhone11, [0000016886196D00][000001688677A980 49] iPhone11Pro, [0000016886185700][000001688677EAC0 49] iPhone11ProMax, [0000016886197D00][0000016886786C40 49] iPhoneSE2, [0000016886186400][000001688678ADC0 49] iPhone12Mini, [0000016886194900][00000168F919EF40 49] iPhone12, [0000016886186B00][00000168F91A30C0 49] iPhone12Pro, [0000016886196E00][00000168F91A7240 49] iPhone12ProMax, [0000016886185900][00000168F91AB3C0 49] iPadPro105, [0000016886196100][00000168F91AF540 49] iPadPro129, [0000016886185600][00000168F91B36C0 49] iPadPro97, [0000016886197E00][00000168F91B7840 49] iPadPro2_129, [0000016886184300][00000168F91BB9C0 49] iPad5, [0000016886197C00][00000168F91BFB40 49] iPad6, [0000016886185200][00000168F91C2140 49] iPad7, [0000016886195C00][00000168F91C62C0 49] iPad8, [0000016886187E00][00000168F91CA440 49] iPadPro11, [0000016886196800][00000168F91CE5C0 49] iPadPro2_11, [0000016886185500][00000168F91D2740 49] iPadPro3_129, [0000016886196200][00000168F91D68C0 49] iPadPro4_129, [0000016886185100][0000016886782A00 49] AppleTV, [0000016886196C00][00000168F91DAB40 49] AppleTV4K, [0000016886185000][00000168F91DEC80 49] TVOS, [0000016886194400][00000168F91E2DC0 49] Mac, [0000016886184D00][000001688597EF40 49] MacClient, [0000016886195F00][00000168859830C0 49] MacNoEditor, [0000016886187300][0000016885987240 49] MacServer, [0000016886197200][000001688598B3C0 49] Linux, [0000016886184A00][000001688598F540 49] LinuxAArch64, [0000016886194700][00000168859936C0 49] LinuxNoEditor, [0000016886186300][0000016885997840 49] LinuxAArch64NoEditor, [0000016886195E00][000001688599B9C0 49] LinuxClient, [0000016886185B00][000001688599FB40 49] LinuxAArch64Client, [0000016886194C00][00000168859A2140 49] LinuxServer, [0000016886187500][00000168859A62C0 49] LinuxAArch64Server, [0000016886195600][00000168859AA440 49] Android, [00000168861DAF00][00000168859AE5C0 49] Android_Low, [0000016886265100][00000168859B2740 49] Android_Mid, [00000168861DAC00][00000168859B68C0 49] Android_High, [0000016886265B00][00000168859BAA40 49] Android_Default, [00000168861DBE00][00000168F91E6B80 49] Android_Adreno4xx, [0000016886266300][00000168859BECC0 49] Android_Adreno5xx_Low, [00000168861D9E00][00000168859C2E00 49] Android_Adreno5xx, [0000016886265F00][00000168859C6F40 49] Android_Adreno6xx, [00000168861D8F00][00000168865C90C0 49] Android_Adreno6xx_Vulkan, [0000016886264E00][00000168865CD240 49] Android_Mali_T6xx, [00000168861D9A00][00000168865D13C0 49] Android_Mali_T7xx, [0000016886266200][00000168865D5540 49] Android_Mali_T8xx, [00000168861DB700][00000168865D96C0 49] Android_Mali_G71, [0000016886264200][00000168865DD840 49] Android_Mali_G72, [00000168861DA200][00000168865E19C0 49] Android_Mali_G72_Vulkan, [0000016886266600][00000168865E5B40 49] Android_Mali_G76, [00000168861DB600][00000168865E8140 49] Android_Mali_G76_Vulkan, [0000016886264800][00000168865EC2C0 49] Android_Mali_G77, [00000168861DB000][00000168865F0440 49] Android_Mali_G77_Vulkan, [0000016886264900][00000168865F45C0 49] Android_Mali_G78, [00000168861D8300][00000168865F8740 49] Android_Mali_G78_Vulkan, [0000016886265200][00000168865FC8C0 49] Android_Mali_G710, [00000168861D8B00][0000016886600A40 49] Android_Mali_G710_Vulkan, [0000016886265800][0000016886604BC0 49] Android_Vulkan_SM5, [0000016886195100][0000016886608D40 49] Android_PowerVR_G6xxx, [0000016886265C00][00000168859CAE80 49] Android_PowerVR_GT7xxx, [0000016886195800][000001688660CFC0 49] Android_PowerVR_GE8xxx, [0000016886264C00][0000016886611100 49] Android_PowerVR_GM9xxx, [0000016886194F00][0000016886619280 49] Android_PowerVR_GM9xxx_Vulkan, [0000016886265700][000001688661D400 49] Android_TegraK1, [0000016886196700][0000016886621580 49] Android_Unknown_Vulkan, [0000016886264300][0000016886625700 49] Lumin, [0000016886194A00][0000016886629880 49] Lumin_Desktop, [0000016886265600][00000168863B1A00 49] HoloLens, 
+[2022.01.29-14.23.10:523][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.29-14.23.10:523][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.29-14.23.10:523][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.29-14.23.10:523][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.29-14.23.10:524][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.29-14.23.10:564][  0]LogNetVersion: TrainToCedarRidge 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3799560500)
+[2022.01.29-14.23.11:183][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.29-14.23.11:267][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.29-14.23.11:274][  0]LogUObjectArray: 17152 objects as part of root set at end of initial load.
+[2022.01.29-14.23.11:274][  0]LogUObjectAllocator: 4294720 out of 0 bytes used by permanent object pool.
+[2022.01.29-14.23.11:274][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.29-14.23.11:645][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C754302E46A6901CEEEE9D903A9502BF | Instance: C175D03240AFE4BD14FF4DBA021E7888 (DESKTOP-352CLH4-24888).
+[2022.01.29-14.23.11:762][  0]LogPython: Using Python 3.7.7
+[2022.01.29-14.23.12:815][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.29-14.23.12:823][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.29-14.23.13:121][  0]SourceControl: Source control is disabled
+[2022.01.29-14.23.13:121][  0]SourceControl: Source control is disabled
+[2022.01.29-14.23.13:126][  0]SourceControl: Source control is disabled
+[2022.01.29-14.23.13:131][  0]SourceControl: Source control is disabled
+[2022.01.29-14.23.13:148][  0]SourceControl: Source control is disabled
+[2022.01.29-14.23.13:151][  0]LogUProjectInfo: Found projects:
+[2022.01.29-14.23.13:405][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.29-14.23.13:569][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.29-14.23.13:598][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.29-14.23.13:598][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.29-14.23.14:021][  0]LogCollectionManager: Loaded 0 collections in 0.002653 seconds
+[2022.01.29-14.23.14:081][  0]LogFileCache: Scanning file cache for directory 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Collections/' took 0.00s
+[2022.01.29-14.23.14:081][  0]LogFileCache: Scanning file cache for directory 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Developers/Wick/Collections/' took 0.00s
+[2022.01.29-14.23.14:081][  0]LogFileCache: Scanning file cache for directory 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Collections/' took 0.00s
+[2022.01.29-14.23.14:081][  0]LogOcInput: OculusInput pre-init called
+[2022.01.29-14.23.14:419][  0]LogEngine: Initializing Engine...
+[2022.01.29-14.23.14:429][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.29-14.23.14:430][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.29-14.23.14:430][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.29-14.23.14:433][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.01.29-14.23.14:608][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.29-14.23.14:646][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.29-14.23.14:652][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.29-14.23.14:657][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.29-14.23.14:659][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.29-14.23.14:660][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.29-14.23.14:660][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.29-14.23.14:660][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-14.23.14:660][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-14.23.14:660][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-14.23.14:660][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-14.23.14:660][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-14.23.14:660][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-14.23.14:660][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-14.23.14:660][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-14.23.14:661][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-14.23.14:661][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-14.23.14:661][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-14.23.14:661][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-14.23.14:681][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-14.23.14:681][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-14.23.14:723][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.29-14.23.14:725][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-14.23.14:729][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-14.23.14:729][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-14.23.14:732][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-14.23.14:732][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-14.23.14:732][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-14.23.14:734][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-14.23.14:734][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-14.23.14:734][  0]LogInit: FAudioDevice initialized.
+[2022.01.29-14.23.14:735][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.29-14.23.14:735][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.29-14.23.14:812][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/Wick/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.29-14.23.14:812][  0]LogInit: Texture streaming: Enabled
+[2022.01.29-14.23.14:829][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.29-14.23.14:832][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.29-14.23.14:832][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.29-14.23.14:834][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.29-14.23.14:876][  0]LogInit: Transaction tracking system initialized
+[2022.01.29-14.23.14:920][  0]BlueprintLog: New page: Editor Load
+[2022.01.29-14.23.15:064][  0]LocalizationService: Localization service is disabled
+[2022.01.29-14.23.15:124][  0]TimingProfiler: Initialize
+[2022.01.29-14.23.15:126][  0]TimingProfiler: OnSessionChanged
+[2022.01.29-14.23.15:126][  0]LoadingProfiler: Initialize
+[2022.01.29-14.23.15:127][  0]LoadingProfiler: OnSessionChanged
+[2022.01.29-14.23.15:127][  0]NetworkingProfiler: Initialize
+[2022.01.29-14.23.15:127][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.29-14.23.15:127][  0]MemoryProfiler: Initialize
+[2022.01.29-14.23.15:127][  0]MemoryProfiler: OnSessionChanged
+[2022.01.29-14.23.15:359][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.29-14.23.15:359][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.29-14.23.15:678][  0]LogFileCache: Scanning file cache for directory 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/' took 0.01s
+[2022.01.29-14.23.15:828][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.29-14.23.15:835][  0]SourceControl: Source control is disabled
+[2022.01.29-14.23.15:836][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.546
+[2022.01.29-14.23.15:837][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.29-14.23.15:844][  0]LightingResults: New page: Lighting Build
+[2022.01.29-14.23.15:850][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-14.23.15:851][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-14.23.15:852][  0]MapCheck: New page: Map Check
+[2022.01.29-14.23.15:852][  0]LightingResults: New page: Lighting Build
+[2022.01.29-14.23.15:861][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-14.23.15:869][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.01.29-14.23.15:957][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.01.29-14.23.15:968][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.01.29-14.23.15:969][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.01.29-14.23.15:986][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.29-14.23.15:993][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.01.29-14.23.15:995][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.29-14.23.15:995][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.495ms to complete.
+[2022.01.29-14.23.15:995][  0]LogFileHelpers: Loading map 'Template_Default' took 0.159
+[2022.01.29-14.23.16:017][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.729
+[2022.01.29-14.23.16:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-14.23.16:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-14.23.16:180][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-14.23.16:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-14.23.16:224][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 3826 classes and 929 folders.
+[2022.01.29-14.23.16:231][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.29-14.23.16:244][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-14.23.16:244][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:244][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-14.23.16:244][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:244][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.29-14.23.16:244][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.01.29-14.23.16:252][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.29-14.23.16:252][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.29-14.23.16:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.29-14.23.16:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.01.29-14.23.16:259][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.29-14.23.16:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.29-14.23.16:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.29-14.23.16:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.01.29-14.23.16:265][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-14.23.16:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-14.23.16:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.29-14.23.16:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.01.29-14.23.16:272][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.29-14.23.16:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.29-14.23.16:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.29-14.23.16:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.01.29-14.23.16:277][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.29-14.23.16:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.29-14.23.16:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.29-14.23.16:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.29-14.23.16:283][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.29-14.23.16:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.29-14.23.16:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.29-14.23.16:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.29-14.23.16:289][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.29-14.23.16:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.29-14.23.16:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.29-14.23.16:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.01.29-14.23.16:296][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-14.23.16:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-14.23.16:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.29-14.23.16:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.01.29-14.23.16:305][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.29-14.23.16:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.29-14.23.16:305][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:305][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.29-14.23.16:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.01.29-14.23.16:311][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.29-14.23.16:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.29-14.23.16:311][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:311][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.29-14.23.16:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.01.29-14.23.16:317][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-14.23.16:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-14.23.16:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.29-14.23.16:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.29-14.23.16:323][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-14.23.16:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-14.23.16:324][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:324][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.29-14.23.16:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.29-14.23.16:330][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-14.23.16:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-14.23.16:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.29-14.23.16:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.29-14.23.16:335][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.29-14.23.16:335][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:335][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.29-14.23.16:335][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:335][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.29-14.23.16:335][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.29-14.23.16:342][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-14.23.16:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-14.23.16:342][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:342][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.29-14.23.16:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.01.29-14.23.16:348][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.29-14.23.16:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.29-14.23.16:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.29-14.23.16:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.29-14.23.16:355][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-14.23.16:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-14.23.16:355][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:355][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.29-14.23.16:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.01.29-14.23.16:362][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-14.23.16:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-14.23.16:362][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:362][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.29-14.23.16:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.29-14.23.16:371][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-14.23.16:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-14.23.16:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.29-14.23.16:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.29-14.23.16:378][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-14.23.16:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-14.23.16:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.29-14.23.16:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.01.29-14.23.16:383][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-14.23.16:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-14.23.16:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.29-14.23.16:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.01.29-14.23.16:389][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.29-14.23.16:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.29-14.23.16:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.29-14.23.16:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.01.29-14.23.16:396][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-14.23.16:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-14.23.16:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.29-14.23.16:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.01.29-14.23.16:402][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-14.23.16:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-14.23.16:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.29-14.23.16:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.29-14.23.16:409][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.29-14.23.16:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-14.23.16:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.29-14.23.16:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-14.23.16:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.29-14.23.16:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.29-14.23.16:556][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.29-14.23.16:565][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.29-14.23.16:630][  0]LogSlate: Took 0.005571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.29-14.23.16:637][  0]LogSlate: Took 0.005884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.29-14.23.16:643][  0]LogSlate: Took 0.004806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.29-14.23.16:775][  0]LogRenderer: Reallocating scene render targets to support 1404x864 Format 10 NumSamples 1 (Frame:1).
+[2022.01.29-14.23.16:876][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.29-14.23.16:876][  0]LogLoad: (Engine Initialization) Total time: 16.59 seconds
+[2022.01.29-14.23.16:876][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.29-14.23.16:924][  0]LogAssetRegistry: Asset discovery search completed in 6.9002 seconds
+[2022.01.29-14.23.16:932][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.01.29-14.23.16:937][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.29-14.23.16:967][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.01.29-14.24.03:698][374]LogSlate: Took 0.005965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.29-14.26.04:750][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.01.29-14.26.04:761][939]LogSlate: Took 0.005656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.29-14.26.04:798][939]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EmmaPlayground.EmmaPlayground
+[2022.01.29-14.26.04:798][939]Cmd: MAP LOAD FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Levels/EmmaPlayground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.29-14.26.04:799][939]LightingResults: New page: Lighting Build
+[2022.01.29-14.26.04:799][939]LoadErrors: New page: Loading map: EmmaPlayground.umap
+[2022.01.29-14.26.04:833][939]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-14.26.04:833][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-14.26.04:833][939]MapCheck: New page: Map Check
+[2022.01.29-14.26.04:833][939]LightingResults: New page: Lighting Build
+[2022.01.29-14.26.04:836][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-14.26.04:839][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.01.29-14.26.04:839][939]LogAudio: Display: Audio Device (ID: 1) registered with world 'EmmaPlayground'.
+[2022.01.29-14.26.04:841][939]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.29-14.26.04:841][939]LogAIModule: Creating AISystem for world EmmaPlayground
+[2022.01.29-14.26.04:847][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.01.29-14.26.04:850][939]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.29-14.26.04:851][939]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2022.01.29-14.26.04:851][939]LogFileHelpers: Loading map 'EmmaPlayground' took 0.052
+[2022.01.29-14.26.37:826][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Mingames/WidgetDrag.WidgetDrag
+[2022.01.29-14.26.38:041][861]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.01.29-14.26.38:787][861]LogSlate: Took 0.000712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.29-14.26.42:048][163]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Mingames/PicturePeices.PicturePeices
+[2022.01.29-14.26.44:681][391]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame
+[2022.01.29-14.36.23:758][174]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.01.29-14.36.23:759][174]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.064
+[2022.01.29-14.36.23:761][174]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-14.36.23:761][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-14.36.23:773][174]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto1CE27EE7E4FCF1A49EF26D1814B3393FB.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto1.uasset'
+[2022.01.29-14.36.23:774][174]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.01.29-15.03.01:453][574]LogRenderer: Reallocating scene render targets to support 1404x892 Format 10 NumSamples 1 (Frame:11481).
+[2022.01.29-15.28.42:839][611]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-15.29.47:344][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.01.29-15.29.47:351][108]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.042
+[2022.01.29-15.29.47:351][108]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-15.29.47:351][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-15.29.47:361][108]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto29DF3692A468570FF03E77ABDCC860EB4.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto2.uasset'
+[2022.01.29-15.29.47:362][108]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.01.29-15.32.54:093][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/WidgetDrag" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/WidgetDrag.uasset" SILENT=true
+[2022.01.29-15.32.54:095][569]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/WidgetDragC53C653D4CBA90EA1D296F87EE596FF0.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/WidgetDrag.uasset'
+[2022.01.29-15.32.54:115][569]AssetCheck: New page: Asset Save: WidgetDrag
+[2022.01.29-15.32.54:115][569]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Mingames/WidgetDrag.WidgetDrag
+[2022.01.29-15.39.47:583][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.01.29-15.39.47:593][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.042
+[2022.01.29-15.39.47:594][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-15.39.47:594][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-15.39.47:603][134]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto35419B97D40EC12F9127FAA83281ECA67.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto3.uasset'
+[2022.01.29-15.39.47:603][134]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.01.29-15.49.48:235][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.01.29-15.49.48:237][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.034
+[2022.01.29-15.49.48:238][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-15.49.48:238][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-15.49.48:248][236]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto47654D3594ECBF3597267B7966CD9C5F9.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto4.uasset'
+[2022.01.29-15.49.48:249][236]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.01.29-16.01.48:522][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/WidgetDrag" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/WidgetDrag.uasset" SILENT=true
+[2022.01.29-16.01.48:526][498]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/WidgetDrag3EFA2E884CABF9D923C4FD80EF071194.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/WidgetDrag.uasset'
+[2022.01.29-16.01.48:542][498]AssetCheck: New page: Asset Save: WidgetDrag
+[2022.01.29-16.01.48:542][498]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Mingames/WidgetDrag.WidgetDrag
+[2022.01.29-16.02.43:313][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.01.29-16.02.43:321][515]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.038
+[2022.01.29-16.02.43:322][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-16.02.43:322][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-16.02.43:333][515]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto550A278C84DDD4FBC334F4B8D9503DE40.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto5.uasset'
+[2022.01.29-16.02.43:333][515]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.01.29-16.04.14:683][903]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/Mingames/WidgetDrag.WidgetDrag from Object to DragDropOperation...
+[2022.01.29-16.04.14:688][903]BlueprintLog: New page: Compile WidgetDrag
+[2022.01.29-16.04.14:724][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.01.29-16.04.17:235][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/WidgetDrag" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/WidgetDrag.uasset" SILENT=true
+[2022.01.29-16.04.17:237][171]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/WidgetDragCF2C598B4ED9E1C89CCF318D6B9843AA.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/WidgetDrag.uasset'
+[2022.01.29-16.04.17:250][171]AssetCheck: New page: Asset Save: WidgetDrag
+[2022.01.29-16.04.17:250][171]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Mingames/WidgetDrag.WidgetDrag
+[2022.01.29-16.04.18:642][313]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-16.04.18:664][313]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.08.19:145][879]BlueprintLog: New page: Compile PicturePeices
+[2022.01.29-16.08.19:186][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.01.29-16.08.19:227][879]LogSlate: Took 0.000906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.29-16.08.19:564][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/PicturePeices" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset" SILENT=true
+[2022.01.29-16.08.19:576][913]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeicesC265BF644383587EAF0474B9BCEB61A0.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset'
+[2022.01.29-16.08.19:590][913]AssetCheck: New page: Asset Save: PicturePeices
+[2022.01.29-16.08.19:590][913]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/PicturePeices.PicturePeices
+[2022.01.29-16.09.16:917][138]BlueprintLog: New page: Compile PicturePeices
+[2022.01.29-16.09.16:970][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.01.29-16.09.17:323][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/PicturePeices" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset" SILENT=true
+[2022.01.29-16.09.17:335][169]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices57FF5B3948702493CA969CBA09D6DC09.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset'
+[2022.01.29-16.09.17:350][169]AssetCheck: New page: Asset Save: PicturePeices
+[2022.01.29-16.09.17:351][169]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/PicturePeices.PicturePeices
+[2022.01.29-16.13.03:424][ 76]BlueprintLog: New page: Compile PictureMiniGame
+[2022.01.29-16.13.03:469][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.01.29-16.13.04:943][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/PictureMiniGame" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PictureMiniGame.uasset" SILENT=true
+[2022.01.29-16.13.04:953][219]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PictureMiniGame59FED0124675DB40660AEA87AE3530BE.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PictureMiniGame.uasset'
+[2022.01.29-16.13.04:969][219]AssetCheck: New page: Asset Save: PictureMiniGame
+[2022.01.29-16.13.04:969][219]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame
+[2022.01.29-16.14.13:271][894]BlueprintLog: New page: Compile PicturePeices
+[2022.01.29-16.14.13:321][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.01.29-16.14.54:587][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.01.29-16.14.54:591][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.036
+[2022.01.29-16.14.54:591][170]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-16.14.54:591][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-16.14.54:602][170]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto65756AF5941158E080ABFA0A75E6C9459.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto6.uasset'
+[2022.01.29-16.14.54:602][170]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.01.29-16.45.59:374][993]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.01.29-16.45.59:394][993]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.01.29-16.46.06:622][749]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> DragableWidget
+[2022.01.29-16.46.06:631][749]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.01.29-16.46.09:036][980]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Mingames/DragableWidget.DragableWidget
+[2022.01.29-16.46.28:737][445]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-16.46.28:770][445]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.46.34:995][ 68]LogEditorTransaction: Undo Delete current selection
+[2022.01.29-16.46.35:689][107]LogEditorTransaction: Undo Change Class Pin Value
+[2022.01.29-16.47.01:765][765]LogEditorTransaction: Undo Delete current selection
+[2022.01.29-16.47.02:090][779]LogEditorTransaction: Undo Change Class Pin Value
+[2022.01.29-16.47.02:573][817]LogEditorTransaction: Undo Add Node
+[2022.01.29-16.47.28:306][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2022.01.29-16.47.28:308][870]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.046
+[2022.01.29-16.47.28:309][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-16.47.28:309][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-16.47.28:321][870]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto73D26774347269968B4CF8DAFE7A0C611.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto7.uasset'
+[2022.01.29-16.47.28:321][870]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.01.29-16.53.48:173][649]LogSlate: Took 0.000828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.29-16.54.03:421][342]BlueprintLog: New page: Compile DragableWidget
+[2022.01.29-16.54.03:460][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.01.29-16.54.03:780][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/DragableWidget" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/DragableWidget.uasset" SILENT=true
+[2022.01.29-16.54.03:783][371]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/DragableWidget19D1F2234A1AA1B34D35ADBE775BC799.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/DragableWidget.uasset'
+[2022.01.29-16.54.03:802][371]AssetCheck: New page: Asset Save: DragableWidget
+[2022.01.29-16.54.03:802][371]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/DragableWidget.DragableWidget
+[2022.01.29-16.54.08:457][822]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-16.54.08:478][822]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-16.54.12:889][271]BlueprintLog: New page: Compile PicturePeices
+[2022.01.29-16.54.12:942][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.01.29-16.55.14:479][745]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.29-16.57.28:939][714]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.01.29-16.57.28:940][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.040
+[2022.01.29-16.57.28:941][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-16.57.28:941][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-16.57.28:954][714]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto8A351C0444CA123A66F261EA8EA76E499.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto8.uasset'
+[2022.01.29-16.57.28:954][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/DragableWidget] ([2] browsable assets)...
+[2022.01.29-16.57.28:954][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/DragableWidget]
+[2022.01.29-16.57.28:961][714]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/DragableWidget_Auto829B1436D4E9B4D66BAF350A10F4937F2.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/DragableWidget_Auto8.uasset'
+[2022.01.29-16.57.28:961][714]LogFileHelpers: Auto-saving content packages took 0.021
+[2022.01.29-17.06.06:812][461]BlueprintLog: New page: Compile DragableWidget
+[2022.01.29-17.06.06:858][461]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.01.29-17.06.29:400][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerStandinBP.PlayerStandinBP
+[2022.01.29-17.06.38:175][515]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.29-17.06.38:197][515]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-17.06.38:198][515]LogEditorClassViewer: Warning: Class /Game/Blueprints/PlayerStandinBP.PLACEHOLDER-CLASS__Dialouge_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-17.06.38:198][515]LogEditorClassViewer: Warning: Class /Game/Blueprints/PlayerStandinBP.PLACEHOLDER-CLASS__HUD_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-17.06.38:198][515]LogEditorClassViewer: Warning: Class /Game/Blueprints/PlayerStandinBP.PLACEHOLDER-CLASS__Journal_C_2 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-17.06.47:768][383]LogEditorTransaction: Undo Change Class Pin Value
+[2022.01.29-17.07.19:235][342]LogSlate: Window 'Delete Variable' being destroyed
+[2022.01.29-17.07.26:401][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/DragableWidget" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/DragableWidget.uasset" SILENT=true
+[2022.01.29-17.07.26:409][  6]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/DragableWidgetEB48E1F247D9CD2B0C131C8F507B5CEB.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/DragableWidget.uasset'
+[2022.01.29-17.07.26:429][  6]AssetCheck: New page: Asset Save: DragableWidget
+[2022.01.29-17.07.26:429][  6]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/DragableWidget.DragableWidget
+[2022.01.29-17.08.06:068][443]BlueprintLog: New page: Compile PlayerStandinBP
+[2022.01.29-17.08.06:146][443]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.01.29-17.08.10:446][804]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-17.08.10:455][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.29-17.08.10:456][804]PIE: New page: PIE session: EmmaPlayground (Jan 29, 2022, 7:08:10 AM)
+[2022.01.29-17.08.10:465][804]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.29-17.08.10:467][804]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.29-17.08.10:468][804]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EmmaPlayground
+[2022.01.29-17.08.10:473][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004728s)
+[2022.01.29-17.08.10:474][804]LogAIModule: Creating AISystem for world EmmaPlayground
+[2022.01.29-17.08.10:475][804]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2022.01.29-17.08.10:475][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EmmaPlayground.EmmaPlayground to /Game/Levels/UEDPIE_0_EmmaPlayground.EmmaPlayground (0.007023s)
+[2022.01.29-17.08.10:514][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.01.29-17.08.10:516][804]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.29-17.08.10:516][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-17.08.10:516][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-17.08.10:516][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-17.08.10:516][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-17.08.10:516][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-17.08.10:516][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-17.08.10:516][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-17.08.10:516][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-17.08.10:517][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-17.08.10:517][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-17.08.10:517][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-17.08.10:517][804]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-17.08.10:520][804]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-17.08.10:520][804]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-17.08.10:532][804]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.29-17.08.10:532][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-17.08.10:532][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-17.08.10:532][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-17.08.10:533][804]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-17.08.10:533][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-17.08.10:533][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-17.08.10:534][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-17.08.10:534][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-17.08.10:534][804]LogInit: FAudioDevice initialized.
+[2022.01.29-17.08.10:534][804]LogAudio: Display: Audio Device (ID: 2) registered with world 'EmmaPlayground'.
+[2022.01.29-17.08.10:563][804]LogLoad: Game class is 'NewGameMode_C'
+[2022.01.29-17.08.10:565][804]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EmmaPlayground.EmmaPlayground up for play (max tick rate 0) at 2022.01.29-12.08.10
+[2022.01.29-17.08.10:565][804]LogWorld: Bringing up level for play took: 0.001368
+[2022.01.29-17.08.10:567][804]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.01.29-17.08.10:586][804]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2022.01.29-17.08.10:595][804]LogBlueprintUserMessages: [NewGameMode_C_0] Vera
+[2022.01.29-17.08.10:596][804]LogBlueprintUserMessages: [NewGameMode_C_0] Razz
+[2022.01.29-17.08.10:598][804]PIE: Server logged in
+[2022.01.29-17.08.10:602][804]PIE: Play in editor total start time 0.15 seconds.
+[2022.01.29-17.08.54:291][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-17.08.54:291][248]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EmmaPlayground
+[2022.01.29-17.08.54:293][248]LogWorld: UWorld::CleanupWorld for EmmaPlayground, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-17.08.54:294][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-17.08.54:308][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.29-17.08.54:328][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-17.08.54:373][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-17.08.54:380][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-17.08.54:383][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-17.08.54:387][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-17.08.54:436][248]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2022.01.29-17.08.54:478][249]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.01.29-17.09.25:543][496]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-17.09.25:551][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.29-17.09.25:551][496]PIE: New page: PIE session: EmmaPlayground (Jan 29, 2022, 7:09:25 AM)
+[2022.01.29-17.09.25:552][496]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EmmaPlayground
+[2022.01.29-17.09.25:554][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002041s)
+[2022.01.29-17.09.25:555][496]LogAIModule: Creating AISystem for world EmmaPlayground
+[2022.01.29-17.09.25:555][496]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2022.01.29-17.09.25:555][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EmmaPlayground.EmmaPlayground to /Game/Levels/UEDPIE_0_EmmaPlayground.EmmaPlayground (0.003171s)
+[2022.01.29-17.09.25:614][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.01.29-17.09.25:618][496]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.29-17.09.25:618][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-17.09.25:618][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-17.09.25:618][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-17.09.25:618][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-17.09.25:618][496]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-17.09.25:618][496]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-17.09.25:618][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-17.09.25:618][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-17.09.25:618][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-17.09.25:618][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-17.09.25:618][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-17.09.25:618][496]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-17.09.25:621][496]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-17.09.25:621][496]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-17.09.25:634][496]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.29-17.09.25:635][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-17.09.25:635][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-17.09.25:635][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-17.09.25:635][496]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-17.09.25:635][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-17.09.25:635][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-17.09.25:637][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-17.09.25:637][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-17.09.25:637][496]LogInit: FAudioDevice initialized.
+[2022.01.29-17.09.25:637][496]LogAudio: Display: Audio Device (ID: 3) registered with world 'EmmaPlayground'.
+[2022.01.29-17.09.25:646][496]LogLoad: Game class is 'NewGameMode_C'
+[2022.01.29-17.09.25:647][496]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EmmaPlayground.EmmaPlayground up for play (max tick rate 0) at 2022.01.29-12.09.25
+[2022.01.29-17.09.25:647][496]LogWorld: Bringing up level for play took: 0.000470
+[2022.01.29-17.09.25:647][496]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.01.29-17.09.25:651][496]LogBlueprintUserMessages: [NewGameMode_C_0] Razz
+[2022.01.29-17.09.25:651][496]LogBlueprintUserMessages: [NewGameMode_C_0] Charlotte
+[2022.01.29-17.09.25:651][496]PIE: Server logged in
+[2022.01.29-17.09.25:652][496]PIE: Play in editor total start time 0.101 seconds.
+[2022.01.29-17.11.28:319][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-17.11.28:319][169]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EmmaPlayground
+[2022.01.29-17.11.28:319][169]LogWorld: UWorld::CleanupWorld for EmmaPlayground, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-17.11.28:319][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-17.11.28:331][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.29-17.11.28:349][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-17.11.28:384][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-17.11.28:384][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-17.11.28:386][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-17.11.28:400][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-17.11.28:404][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.01.29-17.11.28:442][170]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.01.29-17.11.53:793][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.01.29-17.11.53:795][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.039
+[2022.01.29-17.11.53:795][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-17.11.53:795][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-17.11.53:806][321]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto949785B85436876DEA771ABA147A4A4BE.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto9.uasset'
+[2022.01.29-17.11.53:807][321]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/PlayerStandinBP] ([4] browsable assets)...
+[2022.01.29-17.11.53:826][321]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/PlayerStandinBP.PlayerStandinBP_C]
+[2022.01.29-17.11.53:834][321]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerStandinBP.PlayerStandinBP]
+[2022.01.29-17.11.53:843][321]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/PlayerStandinBP.PlayerStandinBP_C]
+[2022.01.29-17.11.53:852][321]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerStandinBP.PlayerStandinBP]
+[2022.01.29-17.11.53:852][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerStandinBP]
+[2022.01.29-17.11.53:852][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerStandinBP" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/PlayerStandinBP_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2022.01.29-17.11.53:890][321]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PlayerStandinBP_Auto9DC141569443F86BBA1470D9F5B87E9BC.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/PlayerStandinBP_Auto9.uasset'
+[2022.01.29-17.11.53:891][321]LogFileHelpers: Auto-saving content packages took 0.096
+[2022.01.29-19.03.53:640][550]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-19.03.53:648][550]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.29-19.03.53:674][550]LogPlayLevel: [PlayLevel] Compiling PicturePeices before play...
+[2022.01.29-19.03.53:974][550]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2022.01.29-19.03.53:984][550]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (1 blueprints)
+[2022.01.29-19.03.53:984][550]PIE: New page: PIE session: EmmaPlayground (Jan 29, 2022, 9:03:53 AM)
+[2022.01.29-19.03.53:984][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EmmaPlayground
+[2022.01.29-19.03.53:988][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004002s)
+[2022.01.29-19.03.53:990][550]LogAIModule: Creating AISystem for world EmmaPlayground
+[2022.01.29-19.03.53:990][550]LogPlayLevel: PIE: World Init took: (0.001996s)
+[2022.01.29-19.03.53:990][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EmmaPlayground.EmmaPlayground to /Game/Levels/UEDPIE_0_EmmaPlayground.EmmaPlayground (0.006246s)
+[2022.01.29-19.03.54:030][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.01.29-19.03.54:031][550]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.29-19.03.54:031][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-19.03.54:031][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-19.03.54:031][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-19.03.54:031][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-19.03.54:031][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-19.03.54:031][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-19.03.54:031][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-19.03.54:031][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-19.03.54:032][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-19.03.54:032][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-19.03.54:032][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-19.03.54:032][550]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-19.03.54:035][550]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-19.03.54:035][550]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-19.03.54:047][550]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.29-19.03.54:048][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-19.03.54:048][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-19.03.54:048][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-19.03.54:048][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-19.03.54:048][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-19.03.54:048][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-19.03.54:050][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-19.03.54:050][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-19.03.54:050][550]LogInit: FAudioDevice initialized.
+[2022.01.29-19.03.54:050][550]LogAudio: Display: Audio Device (ID: 4) registered with world 'EmmaPlayground'.
+[2022.01.29-19.03.54:062][550]LogLoad: Game class is 'NewGameMode_C'
+[2022.01.29-19.03.54:063][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EmmaPlayground.EmmaPlayground up for play (max tick rate 0) at 2022.01.29-14.03.54
+[2022.01.29-19.03.54:064][550]LogWorld: Bringing up level for play took: 0.001044
+[2022.01.29-19.03.54:064][550]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.01.29-19.03.54:068][550]LogBlueprintUserMessages: [NewGameMode_C_0] Charlotte
+[2022.01.29-19.03.54:068][550]LogBlueprintUserMessages: [NewGameMode_C_0] Charlotte
+[2022.01.29-19.03.54:069][550]PIE: Server logged in
+[2022.01.29-19.03.54:070][550]PIE: Play in editor total start time 0.423 seconds.
+[2022.01.29-19.04.02:072][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-19.04.02:072][501]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EmmaPlayground
+[2022.01.29-19.04.02:072][501]LogWorld: UWorld::CleanupWorld for EmmaPlayground, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-19.04.02:072][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-19.04.02:080][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.29-19.04.02:098][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-19.04.02:135][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-19.04.02:135][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-19.04.02:136][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-19.04.02:144][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.01.29-19.04.02:187][502]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.01.29-19.04.26:018][443]LogEditorTransaction: Undo Create Pin Link
+[2022.01.29-19.05.22:592][688]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.01.29-19.05.22:599][688]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.051
+[2022.01.29-19.05.22:599][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-19.05.22:599][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-19.05.22:612][688]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto06A2E57664DFF6425D986E395CB1D0B17.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto0.uasset'
+[2022.01.29-19.05.22:613][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/DragableWidget] ([4] browsable assets)...
+[2022.01.29-19.05.22:613][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/DragableWidget]
+[2022.01.29-19.05.22:620][688]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/DragableWidget_Auto01F5369874E5B5F42B9BBC49C557CE420.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/DragableWidget_Auto0.uasset'
+[2022.01.29-19.05.22:620][688]LogFileHelpers: Auto-saving content packages took 0.022
+[2022.01.29-19.10.18:071][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/PictureMiniGame" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PictureMiniGame.uasset" SILENT=true
+[2022.01.29-19.10.18:086][806]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PictureMiniGameA2C2065147D83FF72B8032B95AC25291.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PictureMiniGame.uasset'
+[2022.01.29-19.10.18:103][806]AssetCheck: New page: Asset Save: PictureMiniGame
+[2022.01.29-19.10.18:104][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame
+[2022.01.29-19.10.19:411][921]BlueprintLog: New page: Compile PictureMiniGame
+[2022.01.29-19.10.19:419][921]LogBlueprint: Error: [AssetLog] D:\TrainToCedarRidge\TrainToCedarRidge\Content\Blueprints\Mingames\PictureMiniGame.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WidgetDrag  to imply a specific type.
+[2022.01.29-19.10.19:419][921]LogBlueprint: Error: [AssetLog] D:\TrainToCedarRidge\TrainToCedarRidge\Content\Blueprints\Mingames\PictureMiniGame.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2022.01.29-19.10.19:482][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.01.29-19.11.00:031][508]BlueprintLog: New page: Compile PictureMiniGame
+[2022.01.29-19.11.00:037][508]LogBlueprint: Warning: [AssetLog] D:\TrainToCedarRidge\TrainToCedarRidge\Content\Blueprints\Mingames\PictureMiniGame.uasset: [Compiler] 'Widget Drag' does not inherit from 'User Widget' ( Cast To WidgetDrag  would always fail).
+[2022.01.29-19.11.00:086][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2022.01.29-19.11.08:001][171]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A747782243C1F4EAC8F5BC40D8837558D3ADFA75), compiling. 
+[2022.01.29-19.11.08:026][172]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.08:029][172]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.01.29-19.11.08:029][172]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.01.29-19.11.08:029][172]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 37
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 33
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 25
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2022.01.29-19.11.08:101][172]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.08:109][172]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EC83D21D14362A31BD3421F56658424E6D1F88F9), compiling. 
+[2022.01.29-19.11.08:128][173]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.08:146][173]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.08:169][173]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 01651921818BC19026EE021E25B3457661AEBBD7), compiling. 
+[2022.01.29-19.11.08:192][174]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.08:219][174]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.08:227][174]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 05AE14156364D8C3977AA86F628C6EC4A99FF094), compiling. 
+[2022.01.29-19.11.08:253][175]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.08:276][176]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.09:137][206]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2022.01.29-19.11.09:137][206]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.09:137][206]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.29-19.11.09:137][206]LogShaderCompilers: Display: Total job queries 172, among them cache hits 0 (0.00%)
+[2022.01.29-19.11.09:137][206]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.01.29-19.11.09:137][206]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.29-19.11.09:137][206]LogShaderCompilers: Display: ================================================
+[2022.01.29-19.11.09:387][212]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.01.29-19.11.09:387][212]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.09:497][213]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.01.29-19.11.09:497][213]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.09:875][223]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.01.29-19.11.09:875][223]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.09:936][225]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.01.29-19.11.09:936][225]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.09:964][226]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.01.29-19.11.09:964][226]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.29-19.11.10:070][229]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 124
+[2022.01.29-19.11.10:071][229]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:274][235]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 114
+[2022.01.29-19.11.10:274][235]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 104
+[2022.01.29-19.11.10:274][235]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:480][240]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 94
+[2022.01.29-19.11.10:480][240]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:514][241]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 86
+[2022.01.29-19.11.10:514][241]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:568][243]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 78
+[2022.01.29-19.11.10:568][243]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:592][244]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 71
+[2022.01.29-19.11.10:592][244]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:592][244]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 65
+[2022.01.29-19.11.10:592][244]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:652][246]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 59
+[2022.01.29-19.11.10:652][246]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:685][247]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 54
+[2022.01.29-19.11.10:685][247]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.10:922][254]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 49
+[2022.01.29-19.11.10:922][254]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.11:536][266]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 44
+[2022.01.29-19.11.11:536][266]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.12:127][283]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 40
+[2022.01.29-19.11.12:127][283]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.12:481][292]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2022.01.29-19.11.12:481][292]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.12:874][305]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2022.01.29-19.11.12:875][305]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.12:975][308]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2022.01.29-19.11.12:975][308]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.13:231][316]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2022.01.29-19.11.13:231][316]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.13:418][321]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 23
+[2022.01.29-19.11.13:418][321]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.13:450][322]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.29-19.11.13:450][322]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.13:759][332]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 19
+[2022.01.29-19.11.13:759][332]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.13:829][334]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.29-19.11.13:829][334]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.13:891][336]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2022.01.29-19.11.13:891][336]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:086][342]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2022.01.29-19.11.14:086][342]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:396][353]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2022.01.29-19.11.14:397][353]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:397][353]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.01.29-19.11.14:397][353]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:487][356]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.01.29-19.11.14:487][356]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:522][357]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2022.01.29-19.11.14:522][357]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:522][357]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.01.29-19.11.14:522][357]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:581][359]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.01.29-19.11.14:581][359]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:636][361]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.01.29-19.11.14:637][361]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:763][365]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.01.29-19.11.14:763][365]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:763][365]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.01.29-19.11.14:763][365]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:982][372]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.01.29-19.11.14:982][372]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.11.14:982][372]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.01.29-19.11.14:982][372]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.29-19.14.46:813][ 53]BlueprintLog: New page: Compile PictureMiniGame
+[2022.01.29-19.14.46:817][ 53]LogBlueprint: Error: [AssetLog] D:\TrainToCedarRidge\TrainToCedarRidge\Content\Blueprints\Mingames\PictureMiniGame.uasset: [Compiler] This blueprint (self) is not a DragDropOperation, therefore ' Target ' must have a connection.
+[2022.01.29-19.14.46:818][ 53]LogBlueprint: Error: [AssetLog] D:\TrainToCedarRidge\TrainToCedarRidge\Content\Blueprints\Mingames\PictureMiniGame.uasset: [Compiler] Variable node  Get Payload  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.01.29-19.14.46:865][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.01.29-19.15.04:720][571]BlueprintLog: New page: Compile PictureMiniGame
+[2022.01.29-19.15.04:723][571]LogBlueprint: Warning: [AssetLog] D:\TrainToCedarRidge\TrainToCedarRidge\Content\Blueprints\Mingames\PictureMiniGame.uasset: [Compiler] 'Widget Drag' does not inherit from 'User Widget' ( Cast To WidgetDrag  would always fail).
+[2022.01.29-19.15.04:724][571]LogBlueprint: Error: [AssetLog] D:\TrainToCedarRidge\TrainToCedarRidge\Content\Blueprints\Mingames\PictureMiniGame.uasset: [Compiler] This blueprint (self) is not a WidgetDrag_C, therefore ' Target ' must have a connection.
+[2022.01.29-19.15.04:724][571]LogBlueprint: Error: [AssetLog] D:\TrainToCedarRidge\TrainToCedarRidge\Content\Blueprints\Mingames\PictureMiniGame.uasset: [Compiler] Variable node  Get WidgetReference  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.01.29-19.15.04:769][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.01.29-19.15.26:562][411]BlueprintLog: New page: Compile PictureMiniGame
+[2022.01.29-19.15.26:611][411]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.01.29-19.15.29:902][648]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-19.15.29:907][648]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.29-19.15.29:908][648]LogPlayLevel: [PlayLevel] Compiling DragableWidget before play...
+[2022.01.29-19.15.29:977][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.01.29-19.15.29:979][648]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2022.01.29-19.15.29:979][648]PIE: New page: PIE session: EmmaPlayground (Jan 29, 2022, 9:15:29 AM)
+[2022.01.29-19.15.29:979][648]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EmmaPlayground
+[2022.01.29-19.15.29:981][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002264s)
+[2022.01.29-19.15.29:985][648]LogAIModule: Creating AISystem for world EmmaPlayground
+[2022.01.29-19.15.29:985][648]LogPlayLevel: PIE: World Init took: (0.003625s)
+[2022.01.29-19.15.29:985][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EmmaPlayground.EmmaPlayground to /Game/Levels/UEDPIE_0_EmmaPlayground.EmmaPlayground (0.006027s)
+[2022.01.29-19.15.30:028][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.01.29-19.15.30:028][648]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.01.29-19.15.30:028][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-19.15.30:028][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-19.15.30:028][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-19.15.30:028][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-19.15.30:028][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-19.15.30:028][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-19.15.30:028][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-19.15.30:028][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-19.15.30:029][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-19.15.30:029][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-19.15.30:029][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-19.15.30:029][648]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-19.15.30:032][648]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-19.15.30:032][648]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-19.15.30:044][648]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.29-19.15.30:044][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-19.15.30:044][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-19.15.30:044][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-19.15.30:044][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-19.15.30:044][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-19.15.30:044][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-19.15.30:046][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-19.15.30:046][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-19.15.30:046][648]LogInit: FAudioDevice initialized.
+[2022.01.29-19.15.30:046][648]LogAudio: Display: Audio Device (ID: 5) registered with world 'EmmaPlayground'.
+[2022.01.29-19.15.30:062][648]LogLoad: Game class is 'NewGameMode_C'
+[2022.01.29-19.15.30:063][648]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EmmaPlayground.EmmaPlayground up for play (max tick rate 0) at 2022.01.29-14.15.30
+[2022.01.29-19.15.30:063][648]LogWorld: Bringing up level for play took: 0.000506
+[2022.01.29-19.15.30:063][648]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.01.29-19.15.30:066][648]LogBlueprintUserMessages: [NewGameMode_C_0] Nelson
+[2022.01.29-19.15.30:066][648]LogBlueprintUserMessages: [NewGameMode_C_0] Nelson
+[2022.01.29-19.15.30:067][648]PIE: Server logged in
+[2022.01.29-19.15.30:068][648]PIE: Play in editor total start time 0.161 seconds.
+[2022.01.29-19.15.38:562][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-19.15.38:562][510]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EmmaPlayground
+[2022.01.29-19.15.38:562][510]LogWorld: UWorld::CleanupWorld for EmmaPlayground, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-19.15.38:563][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-19.15.38:572][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.29-19.15.38:591][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-19.15.38:629][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-19.15.38:629][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-19.15.38:630][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.29-19.15.38:637][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.01.29-19.15.38:674][511]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2022.01.29-19.15.38:674][511]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.01.29-19.16.05:948][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.01.29-19.16.05:950][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.041
+[2022.01.29-19.16.05:951][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-19.16.05:951][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-19.16.05:961][690]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto10372D42F4226664ABDF78B8B4D904AA5.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto1.uasset'
+[2022.01.29-19.16.05:962][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PictureMiniGame] ([2] browsable assets)...
+[2022.01.29-19.16.05:962][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PictureMiniGame]
+[2022.01.29-19.16.05:975][690]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PictureMiniGame_Auto1F82DF5A54660696FB0802C87542EF4AC.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PictureMiniGame_Auto1.uasset'
+[2022.01.29-19.16.05:976][690]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PlayerStandinBP] ([4] browsable assets)...
+[2022.01.29-19.16.05:990][690]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerStandinBP.PlayerStandinBP]
+[2022.01.29-19.16.05:999][690]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerStandinBP.PlayerStandinBP]
+[2022.01.29-19.16.05:999][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerStandinBP]
+[2022.01.29-19.16.05:999][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerStandinBP" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/PlayerStandinBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.01.29-19.16.06:034][690]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PlayerStandinBP_Auto1E9CFCB144605879B14E47DA7F16DFAE0.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/PlayerStandinBP_Auto1.uasset'
+[2022.01.29-19.16.06:035][690]LogFileHelpers: Auto-saving content packages took 0.085
+[2022.01.29-20.40.59:567][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/EmmaPlayground" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Levels/EmmaPlayground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.29-20.40.59:746][255]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.01.29-20.40.59:782][255]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/EmmaPlaygroundF4D1632C4DECF1048A8D189BF93A68DA.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Levels/EmmaPlayground.umap'
+[2022.01.29-20.40.59:869][255]AssetCheck: New page: Asset Save: EmmaPlayground
+[2022.01.29-20.40.59:869][255]LogContentValidation: Display: Validating World /Game/Levels/EmmaPlayground.EmmaPlayground
+[2022.01.29-23.34.51:622][661]LogUObjectHash: Compacting FUObjectHashTables data took  33.26ms
+[2022.01.29-23.34.51:643][661]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/EmmaPlayground' took 0.410
+[2022.01.29-23.34.51:647][661]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Mingames/PicturePeices] ([2] browsable assets)...
+[2022.01.29-23.34.51:647][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Mingames/PicturePeices]
+[2022.01.29-23.34.51:707][661]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices_Auto2FB8A314947E68C9B9D0FE49A817EB3AD.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/Autosaves/Game/Blueprints/Mingames/PicturePeices_Auto2.uasset'
+[2022.01.29-23.34.51:708][661]LogFileHelpers: Auto-saving content packages took 0.063
+[2022.01.29-23.34.53:763][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/PicturePeices" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset" SILENT=true
+[2022.01.29-23.34.53:795][765]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices5B5FC70D40AC8BF169FF06AB715B23F0.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset'
+[2022.01.29-23.34.53:819][765]AssetCheck: New page: Asset Save: PicturePeices
+[2022.01.29-23.34.53:819][765]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/PicturePeices.PicturePeices
+[2022.01.29-23.34.54:503][817]BlueprintLog: New page: Compile PicturePeices
+[2022.01.29-23.34.54:634][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.01.29-23.34.55:593][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/PicturePeices" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset" SILENT=true
+[2022.01.29-23.34.55:622][882]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeices6BA6AF4D471C6AB569C19FBD141CB99B.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset'
+[2022.01.29-23.34.55:636][882]AssetCheck: New page: Asset Save: PicturePeices
+[2022.01.29-23.34.55:636][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/PicturePeices.PicturePeices
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/UnrealEd.Default__BaseWidgetBlueprint:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/UMGEditor.Default__WidgetBlueprint:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Script/Blutility.Default__EditorUtilityWidgetBlueprint:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame:WidgetTree.PicturePeices.WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Mingames/PicturePeices.PicturePeices:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Mingames/PicturePeices.PicturePeices_C:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/UI/HUD.HUD_C:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/UI/Journal.Journal:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.REINST_PicturePeices_C_68:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_2:PicturePeices_C_34.WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_9:DragableWidget_C_23.WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/UI/Dialouge.Dialouge_C:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/UI/HUD.HUD:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/UI/Journal.Journal_C:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_4:PictureMiniGame_C_24.WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Mingames/DragableWidget.DragableWidget:WidgetTree
+[2022.01.29-23.35.04:128][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Mingames/DragableWidget.DragableWidget_C:WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/UI/Dialouge.Dialouge:WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_9:DragableWidget_C_24.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_4:PictureMiniGame_C_25.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_4:PictureMiniGame_C_25.WidgetTree.PicturePeices.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_2:PicturePeices_C_35.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_9:DragableWidget_C_25.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_4:PictureMiniGame_C_26.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_4:PictureMiniGame_C_26.WidgetTree.PicturePeices.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_2:PicturePeices_C_36.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Class /Script/UMG.WidgetTree or WidgetTree /Engine/Transient.World_20:PicturePeices_C_0.WidgetTree
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Game/Blueprints/Mingames/PicturePeices.PicturePeices:WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Engine/Transient.REINST_PicturePeices_C_68:WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame:WidgetTree.PicturePeices.WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Engine/Transient.World_2:PicturePeices_C_34.WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Game/Blueprints/Mingames/PicturePeices.PicturePeices_C:WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Engine/Transient.World_4:PictureMiniGame_C_25.WidgetTree.PicturePeices.WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Engine/Transient.World_2:PicturePeices_C_35.WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Engine/Transient.World_4:PictureMiniGame_C_26.WidgetTree.PicturePeices.WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Engine/Transient.World_2:PicturePeices_C_36.WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogUObjectHash: Warning: Ambiguous path search, could be Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166 or Image /Engine/Transient.World_20:PicturePeices_C_0.WidgetTree.Image_166
+[2022.01.29-23.35.04:129][639]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Image /Game/Blueprints/Mingames/PictureMiniGame.PictureMiniGame_C:WidgetTree.PicturePeices.WidgetTree.Image_166) from referencer (PicturePeices_C /Engine/UMG/Editor/Transient.PicturePeices).  Import failed...
+[2022.01.29-23.35.04:129][639]LogProperty: Warning: ObjectProperty /Game/Blueprints/Mingames/PicturePeices.PicturePeices_C:Image_166: unresolved reference to 'Image'"WidgetTree.Image_166"''
+[2022.01.29-23.36.27:546][467]BlueprintLog: New page: Compile PicturePeices
+[2022.01.29-23.36.27:676][467]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2022.01.29-23.36.28:851][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Mingames/PicturePeices" FILE="D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset" SILENT=true
+[2022.01.29-23.36.28:883][552]LogSavePackage: Moving 'D:/TrainToCedarRidge/TrainToCedarRidge/Saved/PicturePeicesC61906B24D48CB4758E2409A0E59B92B.tmp' to 'D:/TrainToCedarRidge/TrainToCedarRidge/Content/Blueprints/Mingames/PicturePeices.uasset'
+[2022.01.29-23.36.28:901][552]AssetCheck: New page: Asset Save: PicturePeices
+[2022.01.29-23.36.28:901][552]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Mingames/PicturePeices.PicturePeices
+[2022.01.29-23.36.37:645][345]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.29-23.36.37:661][345]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.29-23.36.37:663][345]LogPlayLevel: [PlayLevel] Compiling PictureMiniGame before play...
+[2022.01.29-23.36.37:820][345]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.01.29-23.36.37:890][345]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.069 s
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: === Handled ensure: ===
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: 
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: SObjectWidget for 'PicturePeices_C /Engine/Transient.World_4:PictureMiniGame_C_33.WidgetTree.PicturePeices' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: Stack: 
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee7e136ae UE4Editor-UMG.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee7c600d2 UE4Editor-UMG.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffef11226b1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffef17335be UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffef1725ba2 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffef1729805 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee7d34622 UE4Editor-UMG.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffef2eecbe8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffef2ed778d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffef2d9e5b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffef2d9d57c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee49fb0b8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee4a02a9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee4a06d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee4a065f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee4460c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ffee4d62ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ff71a8387a0 UE4Editor.exe!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ff71a850fcc UE4Editor.exe!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ff71a8510ba UE4Editor.exe!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ff71a8540dd UE4Editor.exe!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ff71a865984 UE4Editor.exe!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007ff71a86853a UE4Editor.exe!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007fff69bd7034 KERNEL32.DLL!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: [Callstack] 0x00007fff6ac02651 ntdll.dll!UnknownFunction []
+[2022.01.29-23.36.37:891][345]LogOutputDevice: Error: 
